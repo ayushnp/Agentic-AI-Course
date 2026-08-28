@@ -21,3 +21,7 @@ sentence-transformers
 chromadb
 faiss-cpu
 huggingface-hub
+
+
+deepagents
+tavily-python
